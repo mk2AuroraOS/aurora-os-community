@@ -1,5 +1,6 @@
-# aurora-os-community
-Project Aurora (Adaptive Unified Responsive Operating Resource Architecture) — это концепция ОС следующего поколения, построенная на принципах адаптивности, искусственного интеллекта и модульности.
+# Project Aurora
+**Операционная система будущего** 🌌
+Независимый open-source проект по разработке операционной системы с нуля.
 
 Project Aurora Community — Манифест
 
